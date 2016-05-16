@@ -12,19 +12,16 @@ title Rar Password Cracker
 mode 1000
 echo.
 echo.
-echo.                      ---------------------------------
-echo.                                :Disclaimer:
-echo.                      ---------------------------------
+echo.                                  ---------------------------------
+echo.                                            :Disclaimer:
+echo.                                  ---------------------------------
 echo.
-echo.             This Batch Code Is Issued Only For knowledge Purpose
-echo.             Any Actions And Or Activities Related To This Batch Code
-echo.             Is Solely Your Responsibility.
-echo.             The Misuse Of This Code Can Result In Criminal Charges
-echo.             Brought Against The Persons In Question. 
-echo.             The Author Will Not Be Held Responsible In The Event Any Criminal Charges
-echo.             Be Brought Against Any Individuals Misusing This Code To Break The Law.
-echo.             If You Fully Understand And Except This Disclaimer Then Only Hit Enter
-echo.             Or CLOSE NOW!
+echo.             This Batch Code Is Issued Only For knowledge Purpose Any Actions Or Activities
+echo.             Related To This Batch Code Is Solely Your Responsibility, The Misuse Of This
+echo.             Code Can Result In Criminal Charges Brought Against The Persons In Question. 
+echo.             The Author Will Not Be Held Responsible In The Event Any Criminal Charges Be
+echo.             Brought Against Any Individuals Misusing This Code To Break The Law.
+echo.             If You Fully Understand And Except This Disclaimer Then Only Hit Enter Or CLOSE NOW!
 echo.
 echo.
 pause
