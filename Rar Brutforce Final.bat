@@ -34,6 +34,8 @@ cls
 echo.
 echo.
 echo.
+echo. Not Able To Locate UnRAR.exe On Default Installation Directory.
+echo.
 SET /P "UnRARPATH=Please Enter UnRAR.exe Full Path  : "
 IF EXIST "%UnRARPATH%UnRAR.exe" goto COPY2
 goto UNRARPATH
