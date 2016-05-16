@@ -10,6 +10,8 @@ color 0a
 :: Time Required For Cracking Depends On Users Processsor's Speed..
 title Rar Password Cracker
 mode 1000
+echo.
+echo.
 echo. Disclaimer: This Batch Code Is Issued Only For knowledge Purpose
 echo.             Any Actions And Or Activities Related To This Batch Code
 echo.             Is Solely Your Responsibility.
@@ -28,6 +30,9 @@ GOTO UNRARPATH
 
 :UNRARPATH
 cls
+echo.
+echo.
+echo.
 SET /P "UnRARPATH=Please Enter UnRAR.exe Full Path  : "
 IF EXIST "%UnRARPATH%UnRAR.exe" goto COPY2
 goto UNRARPATH
@@ -47,6 +52,8 @@ MD %TMP%
 
 :FILENAME
 cls
+echo.
+echo.
 echo ----------------------------------------------
 echo             Password Cracker
 echo                   by Prashant Mishra.
@@ -57,6 +64,8 @@ IF "%NAME%"=="" goto NERROR
 goto FILEPATH
 
 :NERROR
+echo.
+echo.
 echo ----------------------------------------------
 echo                      ERROR
 echo ----------------------------------------------
@@ -70,6 +79,8 @@ IF "%PATH%"=="" goto PERROR
 goto NEXT
 
 :PERROR
+echo.
+echo.
 echo ----------------------------------------------
 echo                      ERROR
 echo ----------------------------------------------
@@ -83,6 +94,8 @@ goto PATH
 
 :PATH
 cls
+echo.
+echo.
 echo ----------------------------------------------
 echo                     ERROR
 echo ----------------------------------------------
@@ -91,6 +104,7 @@ pause
 goto FILENAME
 
 :GP
+echo.
 echo.
 echo.------------------------------------------------
 echo.           Starting Brut Force Atack
@@ -112,6 +126,8 @@ GOTO START
 DEL /Q/S %TMP%
 DEL "UnRAR.exe" 
 cls
+echo.
+echo.
 title Finised Cracking
 echo ----------------------------------------------
 echo                     CRACKED
@@ -120,8 +136,9 @@ echo.
 echo PASSWORD CRACKED!
 echo File Name : %NAME%
 echo Password  : %PASSWORD%
-echo Prashant; Thankyou For Using My Batch Happy To Help..
-echo Batch Code Issued In Public Interest By Prashant
-echo 
+echo.
+echo. Prashant;Thankyou For Using My Batch Code, Happy To Help..
+echo. Batch Code Issued In Public Interest By Prashant
+echo. 
 pause>NUL
 exit
