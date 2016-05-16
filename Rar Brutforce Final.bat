@@ -12,7 +12,11 @@ title Rar Password Cracker
 mode 1000
 echo.
 echo.
-echo. Disclaimer: This Batch Code Is Issued Only For knowledge Purpose
+echo.                      ---------------------------------
+echo.                                :Disclaimer:
+echo.                      ---------------------------------
+echo.
+echo.             This Batch Code Is Issued Only For knowledge Purpose
 echo.             Any Actions And Or Activities Related To This Batch Code
 echo.             Is Solely Your Responsibility.
 echo.             The Misuse Of This Code Can Result In Criminal Charges
