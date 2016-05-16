@@ -9,7 +9,7 @@ color 0a
 :: If Not Found It Will Prompt For UnRAR.exe Exact Location So Please Provide..
 :: Time Required For Cracking Depends On Users Processsor's Speed..
 title Rar Password Cracker
-mode con: cols=47 lines=20
+mode con: 1000
 echo. Disclaimer: This Batch Code Is Issued Only For knowledge Purpose
 echo.             Any Actions And Or Activities Related To This Batch Code
 echo.             Is Solely Your Responsibility.
