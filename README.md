@@ -3,4 +3,4 @@
 * It can be used to crack "Pin encryption" on .Rar files may work for .zip or any other encrypted compressed data
 
 # License
-* Android-H is licensed under the MIT license. See LICENSE for more information.
+* Android-H is licensed under the MIT license. See [LICENSE]LICENSE for more information.
